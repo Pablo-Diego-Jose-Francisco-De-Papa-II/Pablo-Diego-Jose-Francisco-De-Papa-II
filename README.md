@@ -12,18 +12,18 @@
 ###
 
 ### 💼 Things I'm currently working on
-- Some personal projects 😻  
-- Improving my skills in **Java and game development**  
+- Some personal projects 
+- Improving my skills in **Java and game development** 
 
-### 🌱 Current Challenges
-- Learn to code 👨‍💻 regularly  
-- Workout 🏋️‍♂️ 3 times per week  
-- Reduce time spent on social media and online distractions 📵  
+### 🧩 Current Challenges
+- Learn to code regularly  
+- Workout 3 times per week  
+- Reduce time spent on social media and online distractions 
 
-### 🎯 Fun Facts About Me
-- 👨‍🎓 Student at **University of Žilina**, studying **Informatics** 💻  
-- 🎨 Side hobbies: drawing, coding, gaming, sleeping :3  
-- 🚀 Long-term goal: complete a full game from start to finish  
+### 😄 Fun Facts About Me
+- Student at **University of Žilina**, studying **Informatics** 
+- Side hobbies: drawing, coding, gaming, sleeping :3  
+- Long-term goal: complete a full game from start to finish  
 
 ### 💡 Coding Wisdom
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
